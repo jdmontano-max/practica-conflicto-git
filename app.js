@@ -1,5 +1,5 @@
 function mensaje(){
-    console.log("HOLA AMIGOS");
+    console.log("HELLO  FRIENDS!");
 }
 
 mensaje();
